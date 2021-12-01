@@ -2,7 +2,7 @@
         "id": "1",
         "title": "Boogatti Car",
         "photo": "https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278_1280.jpg",
-        "price": "150,000",
+        "price": "150000",
         "category": "car",
         "minted": "true"
     },
@@ -10,7 +10,7 @@
         "id": "2",
         "title": "Rolls Roys Car (White)",
         "photo": "https://cdn.pixabay.com/photo/2013/07/13/11/48/bmw-158703_1280.png",
-        "price": "250,000",
+        "price": "250000",
         "category": "car",
         "minted": "true"
     },
@@ -18,7 +18,7 @@
         "id": "3",
         "title": "Furrari Car (Blue)",
         "photo": "https://cdn.pixabay.com/photo/2013/07/13/11/50/car-158795_1280.png",
-        "price": "70,000",
+        "price": "70000",
         "category": "car",
         "minted": "false"
     },
@@ -26,7 +26,7 @@
         "id": "4",
         "title": "Fokus Car (Silver)",
         "photo": "https://cdn.pixabay.com/photo/2012/04/13/20/37/car-33556__480.png",
-        "price": "10,000",
+        "price": "10000",
         "category": "car",
         "minted": "false"
     },
@@ -34,7 +34,7 @@
         "id": "5",
         "title": "Faston Martin Car",
         "photo": "https://cdn.pixabay.com/photo/2017/03/05/15/29/aston-martin-2118857_1280.jpg",
-        "price": "200,000",
+        "price": "200000",
         "category": "car",
         "minted": "false"
     },
@@ -42,7 +42,7 @@
         "id": "6",
         "title": "Moostang Car",
         "photo": "https://cdn.pixabay.com/photo/2013/07/12/12/56/ford-mustang-146580_1280.png",
-        "price": "70,000",
+        "price": "70000",
         "category": "car",
         "minted": "false"
     },
@@ -50,7 +50,7 @@
         "id": "7",
         "title": "Furrari Car (Red)",
         "photo": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png",
-        "price": "200,000",
+        "price": "200000",
         "category": "car",
         "minted": "false"
     },
@@ -58,7 +58,7 @@
         "id": "8",
         "title": "Mid-Life Crisis Car",
         "photo": "https://cdn.pixabay.com/photo/2019/07/24/23/09/car-4361321_1280.jpg",
-        "price": "220,000",
+        "price": "220000",
         "category": "car",
         "minted": "false"
     },
@@ -66,7 +66,7 @@
         "id": "9",
         "title": "Yellow Mellow House",
         "photo": "https://cdn.pixabay.com/photo/2019/08/22/15/21/modern-4423814_960_720.png",
-        "price": "75,000",
+        "price": "75000",
         "category": "house",
         "minted": "false"
     },
@@ -74,7 +74,7 @@
         "id": "10",
         "title": "Liton House",
         "photo": "https://cdn.pixabay.com/photo/2020/03/14/13/25/house-4930614_960_720.jpg",
-        "price": "55,000",
+        "price": "55000",
         "category": "house",
         "minted": "false"
     },
@@ -82,7 +82,7 @@
         "id": "11",
         "title": "Winter Wonderland",
         "photo": "https://cdn.pixabay.com/photo/2018/10/17/12/38/santa-claus-3753866_960_720.jpg",
-        "price": "35,000",
+        "price": "35000",
         "category": "house",
         "minted": "false"
     },
@@ -90,7 +90,7 @@
         "id": "12",
         "title": "Igloo",
         "photo": "https://cdn.pixabay.com/photo/2012/04/11/13/04/igloo-28130_1280.png",
-        "price": "5,000",
+        "price": "5000",
         "category": "house",
         "minted": "false"
     },
@@ -98,7 +98,7 @@
         "id": "13",
         "title": "Business Casual House",
         "photo": "https://cdn.pixabay.com/photo/2021/11/27/01/04/apartment-6826995_960_720.png",
-        "price": "65,000",
+        "price": "65000",
         "category": "house",
         "minted": "false"
     },
@@ -106,7 +106,7 @@
         "id": "14",
         "title": "Croft House",
         "photo": "https://cdn.pixabay.com/photo/2021/11/27/01/04/apartment-6826993_960_720.png",
-        "price": "80,000",
+        "price": "80000",
         "category": "house",
         "minted": "false"
     },
@@ -114,7 +114,7 @@
         "id": "15",
         "title": "SpringField House",
         "photo": "https://cdn.pixabay.com/photo/2021/11/27/01/04/apartment-6826994_960_720.png",
-        "price": "50,000",
+        "price": "50000",
         "category": "house",
         "minted": "false"
     },
@@ -122,7 +122,7 @@
         "id": "16",
         "title": "Bakery",
         "photo": "https://cdn.pixabay.com/photo/2019/08/22/15/46/icon-4423853_960_720.png",
-        "price": "25,000",
+        "price": "25000",
         "category": "house",
         "minted": "false"
     },
@@ -130,7 +130,7 @@
         "id": "17",
         "title": "Barn House",
         "photo": "https://cdn.pixabay.com/photo/2017/07/30/06/15/barn-2553613_960_720.png",
-        "price": "10,000",
+        "price": "10000",
         "category": "house",
         "minted": "false"
     },
@@ -138,7 +138,7 @@
         "id": "18",
         "title": "Coffee House",
         "photo": "https://cdn.pixabay.com/photo/2021/01/21/13/38/shopfront-5937440_960_720.png",
-        "price": "25,000",
+        "price": "25000",
         "category": "house",
         "minted": "false"
     },
@@ -146,7 +146,7 @@
         "id": "19",
         "title": "Smurf House",
         "photo": "https://cdn.pixabay.com/photo/2014/04/02/10/41/mushroom-304246_960_720.png",
-        "price": "9,000",
+        "price": "9000",
         "category": "house",
         "minted": "false"
     },
@@ -154,7 +154,7 @@
         "id": "20",
         "title": "Mid-Life Crisis Yacht",
         "photo": "https://cdn.pixabay.com/photo/2018/06/17/17/00/yacht-3480913_1280.jpg",
-        "price": "12,000,000",
+        "price": "12000000",
         "category": "boat",
         "minted": "false"
     },
@@ -162,7 +162,7 @@
         "id": "21",
         "title": "Retirement Yacht",
         "photo": "https://cdn.pixabay.com/photo/2017/10/01/18/47/trimaran-2806616_1280.jpg",
-        "price": "15,000,000",
+        "price": "15000000",
         "category": "boat",
         "minted": "false"
     },
@@ -170,7 +170,7 @@
         "id": "22",
         "title": "Dock Hydro Boat",
         "photo": "https://www.seekpng.com/png/full/84-840696_boat.png",
-        "price": "45,000",
+        "price": "45000",
         "category": "boat",
         "minted": "false"
     },
@@ -178,7 +178,7 @@
         "id": "23",
         "title": "Coast Guard Boat",
         "photo": "https://www.seekpng.com/png/full/44-446545_coast-guard-boat-12-meter-coast-guard-boat.png",
-        "price": "40,000",
+        "price": "40000",
         "category": "boat",
         "minted": "false"
     },
@@ -186,7 +186,7 @@
         "id": "24",
         "title": "Floater Boat",
         "photo": "https://www.seekpng.com/png/full/49-498308_hydro-hopper-boat-finding-dory-party-finding-dory.png",
-        "price": "20,000",
+        "price": "20000",
         "category": "boat",
         "minted": "false"
     },
@@ -194,7 +194,7 @@
         "id": "25",
         "title": "Fighter Jet",
         "photo": "https://www.seekpng.com/png/full/7-78562_jet-fighter-png-fighter-jet-radar-cross-section.png",
-        "price": "5,000,000",
+        "price": "5000000",
         "category": "jet",
         "minted": "false"
     },
@@ -202,7 +202,7 @@
         "id": "26",
         "title": "Supersonic Jet",
         "photo": "https://cdn.pixabay.com/photo/2018/12/13/23/44/concept-3873992_960_720.jpg",
-        "price": "10,000,000",
+        "price": "10000000",
         "category": "jet",
         "minted": "false"
     },
@@ -210,7 +210,7 @@
         "id": "27",
         "title": "Zeppelin",
         "photo": "https://cdn.pixabay.com/photo/2019/06/24/15/18/steampunk-4296268__340.jpg",
-        "price": "1,000,000",
+        "price": "1000000",
         "category": "jet",
         "minted": "false"
     },
@@ -218,7 +218,7 @@
         "id": "28",
         "title": "Private Jet",
         "photo": "https://cdn.pixabay.com/photo/2016/02/21/21/54/plane-1214396_1280.jpg",
-        "price": "11,000,000",
+        "price": "11000000",
         "category": "jet",
         "minted": "false"
     },
@@ -226,7 +226,7 @@
         "id": "29",
         "title": "Cirrus Jet",
         "photo": "https://www.seekpng.com/png/full/375-3754388_cirrus-jet-sf50-x-plane-personal-jet.png",
-        "price": "12,000,000",
+        "price": "12000000",
         "category": "jet",
         "minted": "false"
     },
@@ -234,7 +234,7 @@
         "id": "30",
         "title": "Happy Corgi",
         "photo": "https://cdn.pixabay.com/photo/2019/08/19/07/45/dog-4415649_1280.jpg",
-        "price": "1,750",
+        "price": "1750",
         "category": "pet",
         "minted": "false"
     },
@@ -242,7 +242,7 @@
         "id": "31",
         "title": "Dalmatian",
         "photo": "https://cdn.pixabay.com/photo/2015/11/03/12/58/dalmatian-1020790__480.jpg",
-        "price": "1,750",
+        "price": "1750",
         "category": "pet",
         "minted": "false"
     },
@@ -250,7 +250,7 @@
         "id": "32",
         "title": "Drunk Dog",
         "photo": "https://cdn.pixabay.com/photo/2016/03/18/21/53/sleep-1265856__480.jpg",
-        "price": "1,800",
+        "price": "1800",
         "category": "pet",
         "minted": "false"
     },
@@ -258,7 +258,7 @@
         "id": "33",
         "title": "Blue eyed cat",
         "photo": "https://cdn.pixabay.com/photo/2019/02/06/14/21/cat-3979262__340.jpg",
-        "price": "1,800",
+        "price": "1800",
         "category": "pet",
         "minted": "false"
     },
@@ -266,7 +266,7 @@
         "id": "34",
         "title": "Hairy Cow Horns",
         "photo": "https://cdn.pixabay.com/photo/2014/08/30/18/19/cow-431729_1280.jpg",
-        "price": "7,000",
+        "price": "7000",
         "category": "pet",
         "minted": "false"
     },
@@ -274,7 +274,7 @@
         "id": "35",
         "title": "ZMW Motorcycle",
         "photo": "https://cdn.pixabay.com/photo/2016/04/07/06/53/bmw-1313343_1280.jpg",
-        "price": "25,000",
+        "price": "25000",
         "category": "bike",
         "minted": "false"
     },
@@ -282,7 +282,7 @@
         "id": "36",
         "title": "Retro Black Bike",
         "photo": "https://cdn.pixabay.com/photo/2015/05/29/19/18/bicycle-789648_1280.jpg",
-        "price": "3,000",
+        "price": "3000",
         "category": "bike",
         "minted": "false"
     },
@@ -290,7 +290,7 @@
         "id": "37",
         "title": "Skateboard Orange Wheels",
         "photo": "https://cdn.pixabay.com/photo/2018/09/26/00/46/skateboard-3703567_1280.jpg",
-        "price": "1,000",
+        "price": "1000",
         "category": "bike",
         "minted": "false"
     },
@@ -298,7 +298,7 @@
         "id": "38",
         "title": "Motorcycle (Orange)",
         "photo": "https://cdn.pixabay.com/photo/2014/04/03/09/59/motorcycle-309527_1280.png",
-        "price": "15,000",
+        "price": "15000",
         "category": "bike",
         "minted": "false"
     },
@@ -306,7 +306,7 @@
         "id": "39",
         "title": "Blue Vespa",
         "photo": "https://cdn.pixabay.com/photo/2020/04/25/05/59/scooter-5089601__480.png",
-        "price": "5,000",
+        "price": "5000",
         "category": "bike",
         "minted": "false"
     },
@@ -314,7 +314,7 @@
         "id": "40",
         "title": "Moostang Car (Black)",
         "photo": "https://cdn.pixabay.com/photo/2013/07/12/12/45/car-146185_1280.png",
-        "price": "50,000 Points",
+        "price": "50000 Points",
         "category": "car",
         "minted": "false"
     }
