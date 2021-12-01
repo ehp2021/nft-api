@@ -1,67 +1,109 @@
 [{
+        "id": "1",
         "title": "Boogatti Car",
         "photo": "https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278_1280.jpg",
-        "price": "",
+        "price": "150,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "2",
+        "title": "Rolls Roys Car (White)",
+        "photo": "https://cdn.pixabay.com/photo/2013/07/13/11/48/bmw-158703_1280.png",
+        "price": "250,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "3",
+        "title": "Furrari Car (Blue)",
+        "photo": "https://cdn.pixabay.com/photo/2013/07/13/11/50/car-158795_1280.png",
+        "price": "70,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "4",
+        "title": "Fokus Car (Silver)",
+        "photo": "https://cdn.pixabay.com/photo/2012/04/13/20/37/car-33556__480.png",
+        "price": "10,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "5",
+        "title": "Faston Martin Car",
+        "photo": "https://cdn.pixabay.com/photo/2017/03/05/15/29/aston-martin-2118857_1280.jpg",
+        "price": "200,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "6",
+        "title": "Moostang Car",
+        "photo": "https://cdn.pixabay.com/photo/2013/07/12/12/56/ford-mustang-146580_1280.png",
+        "price": "70,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "7",
+        "title": "Furrari Car (Red)",
+        "photo": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png",
+        "price": "200,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "8",
+        "title": "Lamborghiny Car (Yellow)",
+        "photo": "https://cdn.pixabay.com/photo/2019/07/24/23/09/car-4361321_1280.jpg",
+        "price": "220,000",
         "category": "car",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "car",
+        "id": "9",
+        "title": "Yellow Mellow House",
+        "photo": "https://cdn.pixabay.com/photo/2019/08/22/15/21/modern-4423814_960_720.png",
+        "price": "75,000",
+        "category": "house",
         "minted": "false"
     },
     {
+        "id": "10",
+        "title": "Liton House",
+        "photo": "https://cdn.pixabay.com/photo/2020/03/14/13/25/house-4930614_960_720.jpg",
+        "price": "55,000",
+        "category": "house",
+        "minted": "false"
+    },
+    {
+        "id": "11",
+        "title": "Winter Wonderland",
+        "photo": "https://cdn.pixabay.com/photo/2018/10/17/12/38/santa-claus-3753866_960_720.jpg",
+        "price": "35,000",
+        "category": "house",
+        "minted": "false"
+    },
+    {
+        "id": "12",
+        "title": "Igloo",
+        "photo": "https://cdn.pixabay.com/photo/2012/04/11/13/04/igloo-28130_1280.png",
+        "price": "5,000",
+        "category": "house",
+        "minted": "false"
+    },
+    {
+        "id": "13",
+        "title": "Business Casual House",
+        "photo": "https://cdn.pixabay.com/photo/2021/11/27/01/04/apartment-6826995_960_720.png",
+        "price": "65,000",
+        "category": "house",
+        "minted": "false"
+    },
+    {
+        "id": "14",
         "title": "",
         "photo": "",
         "price": "",
@@ -69,6 +111,7 @@
         "minted": "false"
     },
     {
+        "id": "15",
         "title": "",
         "photo": "",
         "price": "",
@@ -76,6 +119,7 @@
         "minted": "false"
     },
     {
+        "id": "16",
         "title": "",
         "photo": "",
         "price": "",
@@ -83,6 +127,7 @@
         "minted": "false"
     },
     {
+        "id": "17",
         "title": "",
         "photo": "",
         "price": "",
@@ -90,6 +135,7 @@
         "minted": "false"
     },
     {
+        "id": "18",
         "title": "",
         "photo": "",
         "price": "",
@@ -97,6 +143,7 @@
         "minted": "false"
     },
     {
+        "id": "19",
         "title": "",
         "photo": "",
         "price": "",
@@ -104,41 +151,7 @@
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "house",
-        "minted": "false"
-    },
-    {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "house",
-        "minted": "false"
-    },
-    {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "house",
-        "minted": "false"
-    },
-    {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "house",
-        "minted": "false"
-    },
-    {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "house",
-        "minted": "false"
-    },
-    {
+        "id": "20",
         "title": "",
         "photo": "",
         "price": "",
@@ -146,6 +159,23 @@
         "minted": "false"
     },
     {
+        "id": "21",
+        "title": "Columbus",
+        "photo": "https://cdn.pixabay.com/photo/2015/03/05/01/46/sailing-ship-659758_960_720.jpg",
+        "price": "",
+        "category": "boat",
+        "minted": "false"
+    },
+    {
+        "id": "22",
+        "title": "Miss Conduct",
+        "photo": "",
+        "price": "",
+        "category": "boat",
+        "minted": "false"
+    },
+    {
+        "id": "23",
         "title": "",
         "photo": "",
         "price": "",
@@ -153,6 +183,7 @@
         "minted": "false"
     },
     {
+        "id": "24",
         "title": "",
         "photo": "",
         "price": "",
@@ -160,20 +191,23 @@
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
+        "id": "25",
+        "title": "Fighter",
+        "photo": "https://cdn.pixabay.com/photo/2012/10/26/01/35/aircraft-63032_960_720.jpg",
         "price": "",
-        "category": "boat",
+        "category": "jet",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
+        "id": "26",
+        "title": "Supersonic",
+        "photo": "https://cdn.pixabay.com/photo/2018/12/13/23/44/concept-3873992_960_720.jpg",
         "price": "",
-        "category": "boat",
+        "category": "jet",
         "minted": "false"
     },
     {
+        "id": "27",
         "title": "",
         "photo": "",
         "price": "",
@@ -181,6 +215,7 @@
         "minted": "false"
     },
     {
+        "id": "28",
         "title": "",
         "photo": "",
         "price": "",
@@ -188,6 +223,7 @@
         "minted": "false"
     },
     {
+        "id": "29",
         "title": "",
         "photo": "",
         "price": "",
@@ -195,20 +231,7 @@
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "jet",
-        "minted": "false"
-    },
-    {
-        "title": "",
-        "photo": "",
-        "price": "",
-        "category": "jet",
-        "minted": "false"
-    },
-    {
+        "id": "30",
         "title": "",
         "photo": "",
         "price": "",
@@ -216,6 +239,7 @@
         "minted": "false"
     },
     {
+        "id": "31",
         "title": "",
         "photo": "",
         "price": "",
@@ -223,6 +247,7 @@
         "minted": "false"
     },
     {
+        "id": "32",
         "title": "",
         "photo": "",
         "price": "",
@@ -230,6 +255,7 @@
         "minted": "false"
     },
     {
+        "id": "33",
         "title": "",
         "photo": "",
         "price": "",
@@ -237,6 +263,7 @@
         "minted": "false"
     },
     {
+        "id": "34",
         "title": "",
         "photo": "",
         "price": "",
@@ -244,6 +271,7 @@
         "minted": "false"
     },
     {
+        "id": "35",
         "title": "",
         "photo": "",
         "price": "",
@@ -251,6 +279,7 @@
         "minted": "false"
     },
     {
+        "id": "36",
         "title": "",
         "photo": "",
         "price": "",
@@ -258,6 +287,7 @@
         "minted": "false"
     },
     {
+        "id": "37",
         "title": "",
         "photo": "",
         "price": "",
@@ -265,17 +295,27 @@
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "38",
+        "title": "Motorcycle (Orange)",
+        "photo": "https://cdn.pixabay.com/photo/2014/04/03/09/59/motorcycle-309527_1280.png",
+        "price": "15,000",
         "category": "bike",
         "minted": "false"
     },
     {
-        "title": "",
-        "photo": "",
-        "price": "",
+        "id": "39",
+        "title": "Blue Vespa",
+        "photo": "https://cdn.pixabay.com/photo/2020/04/25/05/59/scooter-5089601__480.png",
+        "price": "5,000",
         "category": "bike",
+        "minted": "false"
+    },
+    {
+        "id": "40",
+        "title": "Moostang Car (Black)",
+        "photo": "https://cdn.pixabay.com/photo/2013/07/12/12/45/car-146185_1280.png",
+        "price": "50,000 Points",
+        "category": "car",
         "minted": "false"
     }
 
