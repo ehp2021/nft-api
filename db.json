@@ -4,7 +4,7 @@
         "photo": "https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278_1280.jpg",
         "price": "150,000",
         "category": "car",
-        "minted": "false"
+        "minted": "true"
     },
     {
         "id": "2",
@@ -12,7 +12,7 @@
         "photo": "https://cdn.pixabay.com/photo/2013/07/13/11/48/bmw-158703_1280.png",
         "price": "250,000",
         "category": "car",
-        "minted": "false"
+        "minted": "true"
     },
     {
         "id": "3",
@@ -169,7 +169,7 @@
     {
         "id": "22",
         "title": "Dock Hydro Boat",
-        "photo": "https://www.seekpng.com/png/full/139-1394786_dock-hydro-hopper-boat-2012-boat.png",
+        "photo": "https://www.seekpng.com/png/full/84-840696_boat.png",
         "price": "45,000",
         "category": "boat",
         "minted": "false"
@@ -226,7 +226,7 @@
         "id": "29",
         "title": "Cirrus Jet",
         "photo": "https://www.seekpng.com/png/full/375-3754388_cirrus-jet-sf50-x-plane-personal-jet.png",
-        "price": "",
+        "price": "12,000,000",
         "category": "jet",
         "minted": "false"
     },
@@ -258,7 +258,7 @@
         "id": "33",
         "title": "Blue eyed cat",
         "photo": "https://cdn.pixabay.com/photo/2019/02/06/14/21/cat-3979262__340.jpg",
-        "price": "1,8",
+        "price": "1,800",
         "category": "pet",
         "minted": "false"
     },
