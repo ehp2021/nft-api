@@ -9,18 +9,18 @@ app.use(cors())
 app.get("/", (req, res) => {
     res.send(importData);
 });
-app.put("/:id", (req, res)=>{
+app.patch("/:id", (req, res) => {
     const id = req.params.id;
     importData
-        .findOne({id: id})
-        .update({minted: true},
-            function(err){
-                if (!err){
-                  res.send("Successfully updated to true.");
+        .findOne({ id: id })
+        .update({ minted: true },
+            function(err) {
+                if (!err) {
+                    res.send("Successfully updated to true.");
                 } else {
-                  res.send(err);
+                    res.send(err);
                 }
-              })
+            })
 })
 
 app.listen(port, () => {
